@@ -1,0 +1,50 @@
+
+Mike Jasiczek; CIS 2503; Professor George; Week 7 Operator Overloading Pseudocode
+
+
+INCLUDE String
+USING Namespace
+
+CREATE Mike Class
+
+	CREATE Num 
+	CREATE Mike()
+	CREATE Mike(Int) 
+	CREATE Operator Overloading()
+	DEFINE Operator Overloading function
+		CREATE Mike Object
+			NewObject = num + otherNum
+			Return the new object
+	
+	
+	
+
+
+
+
+
+MAIN 
+
+	CREATE Num1, Num2
+	SET Num1, Num2
+	CREATE Mike ObjectA(Num1)
+	CREATE Mike ObjectB(Num2)
+	CREATE Mike Object
+	CREATE Mike Pointer
+		Mike Pointer = MikeA + MikeB
+		
+	COUT Overloaded Num
+
+
+
+
+	
+	
+	
+
+
+
+	  
+	
+	 
+	
